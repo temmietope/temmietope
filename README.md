@@ -16,7 +16,7 @@ Asides coding, I enjoy traveling and taking amazing landscape photographs. I am 
 - 😄 My Pronouns: She/Her   
 - 💬 Ask me about: Frontend technologies, Web Accessibility
 - 📫 How to reach me: [@temmmie_](https://twitter.com/temmmie_)
-- ⚡ Fun fact: I make every wig I wear. I also love trying out amazing and crazy hairstyles and color.
+- ⚡ Fun fact: I make every wig I wear. I also love trying out amazing hairstyles and colors.
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temmietope)](https://github.com/temmietope/github-readme-stats)
 [![temmietope's github stats](https://github-readme-stats.vercel.app/api?username=temmietope)](https://github.com/temmietope/github-readme-stats)
