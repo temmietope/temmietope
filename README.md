@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I'm Temitope Ayodele</h3>
 <p align="center">
-  <a href="https://temmietope.netlify.app/">Website</a> •
+  <a href="https://temmie.me/">Website</a> •
   <a href="https://twitter.com/temmmie_">Twitter</a> •
   <a href="https://dev.to/temmietope">Dev.To</a>
 </p>
